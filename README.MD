@@ -40,5 +40,6 @@ The round-robin algorithm is implemented in the `LoadBalancer` struct. It mainta
 ### Error Handling
 
 The load balancer includes basic error handling to handle unavailable servers and potential errors.
+
 ## Thanks
 I am passionate about exploring new technologies and creating exciting projects. If you have interesting project ideas and would like to collaborate, feel free to reach out to me via [email](mailto:chawlaritik@gmail.com).
